@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Eddie! 👋
 
 - 🎓 Studied Accounting and Economics at University of British Columbia (UBC)
 - 📈 Studying **Computer Science** and **Statistics** at University of Toronto Scarborough (UTSC)
