@@ -1,7 +1,7 @@
 ### Hi there, I'm Eddie! 👋
 
 - 🎓 Studying **Computer Science** and **Statistics** at University of Toronto Scarborough (UTSC)
-- 👀 Interested in Software Engineering, Android Development and Data Science 
+- 👀 Interested in Software Engineering and Fullstack Development
 
 ![Eddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshinhw&show_icons=true)
 
