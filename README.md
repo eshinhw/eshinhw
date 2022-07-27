@@ -1,5 +1,6 @@
 ### Hi there, I'm Eddie! 👋
 
+- :canada: Toronto, Canada
 - 🎓 Studying **Computer Science** and **Statistics** at University of Toronto Scarborough (UTSC)
 - 👀 Interested in Software Engineering, Fullstack Development and Data Science
 
