@@ -19,6 +19,4 @@ I'm an aspiring Software Engineer in :canada:
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
