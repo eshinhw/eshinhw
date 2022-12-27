@@ -3,7 +3,7 @@
 # Hi there, I'm Eddie! 👋
 - 🌎 I'm a future Software Engineer based in :canada:
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 👀 Interested in Software Engineering, Full Stack Development, Data Science, Quantitative Finance Blockchain Technology and many more related to technologies
+- 👀 Interested in Software Engineering, Full Stack Development, Data Science, Quantitative Finance Blockchain Technology
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddie-shin) 
