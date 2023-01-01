@@ -4,7 +4,7 @@
 
 - 🌎 A future Software Engineer based in :canada:
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 👀 Interested in Software Engineering, Full Stack Development, Data Science, Quantitative Finance Blockchain Technology
+- 👀 Interested in Software Engineering, Full Stack Development, Blockchain Technology, Data Science, and Quantitative Finance
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddie-shin) 
