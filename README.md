@@ -2,7 +2,7 @@
 
 # Hi there, I'm Eddie! 👋
 
-- 🌎 A prospective Software Engineer based in :canada:
+- 🌎 A prospective Software Engineer in :canada:
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
 - 👀 Interested in Software Engineering, Full Stack Dev, Blockchain Technology, Data Science, and Quantitative Finance
 
