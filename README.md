@@ -12,10 +12,10 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eshinhw&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshinhw&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eshinhw&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=eshinhw&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eshinhw&repo=dottery)](https://github.com/eshinhw/dottery)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eshinhw&repo=dottery)](https://github.com/eshinhw/dottery)-->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
