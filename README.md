@@ -2,7 +2,7 @@
 
 - 🌎 A prospective Software Engineer in Canada 🇨🇦
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 👀 Interested in Software Engineering, Data Science, Quantitative Finance, and Web3 & Blockchain Technology
+- 👀 Interested in Software Engineering, Data Science, Quantitative Finance, Web3 and Blockchain Technology
 <!--
 ## 💻 Tech Stack
 
