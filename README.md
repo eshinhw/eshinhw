@@ -1,6 +1,6 @@
 # Hi there, I'm Eddie! 👋
 
-- 🌎 A prospective Software Engineer in Canada 🇨🇦
+- 🌎 Full Stack Software Engineer 🇨🇦
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
 <!--
 ## 💻 Tech Stack
