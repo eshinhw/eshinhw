@@ -1,7 +1,7 @@
 # Hi there, I'm Eddie! 👋
 
-- 🇨🇦 Full Stack Web and Mobile Software Engineer 
 - 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
+- 🇨🇦 Full Stack Software Engineering, ML & Data Engineering, Applied Statistics
 
 ## 📊 GitHub Stats
 
