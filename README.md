@@ -1,7 +1,7 @@
 # Hi there, I'm Eddie! 👋
 
-- 🎓 Studying Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 🇨🇦 Applied Statistics in Finance & ML, Data Engineering, Full Stack Software Engineering
+- 🎓 Recent New Grad of Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
+- 👀 Full Stack SWE, Backend Development, Mobile App Development, Quant Dev, Machine Learning
 
 ## 📊 GitHub Stats
 
