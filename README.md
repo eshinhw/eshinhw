@@ -1,7 +1,7 @@
 # Hi there, I'm Eddie! 👋
 
 - 🎓 Recent New Grad of Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 👀 Full Stack Software Engineering, Quantitative Finance, and Applied Statistics
+- 👀 Full Stack Software Engineering, Quantitative Finance and Applied Statistics
 
 ## 📊 GitHub Stats
 
