@@ -1,5 +1,6 @@
-# Hi there, I'm Eddie! 👋
+# Hi, I'm Eddie! 👋
 
+- 🧑🏻‍💻 Full Stack Software Engineer
 - 🎓 Recent Grad of Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
 - 👀 Software Enginnering, Machine Learning, Quant Finance
 
