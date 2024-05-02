@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 Full Stack Software Engineer
 - 🎓 Recent Grad of Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
-- 👀 Software Enginnering, Machine Learning, Quant Finance
+- 👀 Software Engineering, Full Stack Development, Quantitative Finance, Data Science, Machine Learning
 
 ## 📊 GitHub Stats
 
