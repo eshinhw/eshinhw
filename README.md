@@ -1,6 +1,6 @@
 # Hi, I'm Eddie! 👋
 
-- 🧑🏻‍💻 Software Developer @ KWA Analytics
+- 🧑🏻‍💻 Software Developer
 - 🎓 Recent Grad of Computer Science and Statistics at [University of Toronto Scarborough (UTSC)](https://www.utsc.utoronto.ca/home/)
 - 👀 Software Engineering, Full Stack Development, Quantitative Finance, Data Science, Machine Learning
 
